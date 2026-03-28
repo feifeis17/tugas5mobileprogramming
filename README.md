@@ -33,13 +33,13 @@ Hubungkan HP Android fisik (dengan USB Debugging aktif) atau gunakan Emulator (A
 Klik tombol Run (ikon segitiga hijau) di toolbar atas.
 Aplikasi akan terinstal dan siap digunakan!
 
-##Screenshots
+##DEMO
+Berikut adalah simulasi alur aplikasi (Login -> Register -> Loading State):
 
-![Screenshot_2026-03-28-17-52-11-76_31a425201a787272b9db3e73f14b4eaa](https://github.com/user-attachments/assets/64a502dc-973b-4708-9e9b-61334a46cbf6)
-![Screenshot_2026-03-28-17-52-08-05_31a425201a787272b9db3e73f14b4eaa](https://github.com/user-attachments/assets/332a8aed-aae8-4cfd-8c6a-b539471de7c2)
-![Screenshot_2026-03-28-17-51-41-22_31a425201a787272b9db3e73f14b4eaa](https://github.com/user-attachments/assets/2a42d450-f583-4bc6-88a9-fa9958a6cc32)
-![Screenshot_2026-03-28-17-50-38-01_31a425201a787272b9db3e73f14b4eaa](https://github.com/user-attachments/assets/fa600937-0491-4718-92c5-17629446fdbf)
-![Screenshot_2026-03-28-17-50-07-64_31a425201a787272b9db3e73f14b4eaa](https://github.com/user-attachments/assets/92fa8f17-3bd1-416d-8791-0d7c15857ff9)
+
+https://github.com/user-attachments/assets/d6d8b395-a726-4f2b-96e8-7cbe0461197c
+
+
 
 ##Author
 - Nama: Feisal Ramdhani Riyadi
